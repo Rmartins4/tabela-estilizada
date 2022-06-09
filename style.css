@@ -1,0 +1,28 @@
+.cabecalho-moda th {
+    background-color: #bb86fc;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#produtos-moda td {
+    background-color: #424250;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.cabecalho-casa th {
+    background-color: #00C4B4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#produtos-casa td {
+    background-color: #424250;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
